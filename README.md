@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Luke Feng
+
+I'm a junior at Pitzer College double majoring in Data Science and Mathematics. I am interested in the applications of data analysis and machine learning.
 
 - 🔭 I’m currently working on a LSTM Music generation project
 - 🌱 I’m currently learning about data mining
